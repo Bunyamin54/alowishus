@@ -52,3 +52,17 @@ nav {
 main {
   display: flex;
 }
+.main__left--coffe {
+  width: 600px;
+  height: 420px;
+}
+
+.main__left--delic h1 {
+  font-weight: 800;
+  font-size: 4rem;
+  display: inline;
+}
+.main__left--delic img {
+  width: 3rem;
+  height: 2rem;
+}
