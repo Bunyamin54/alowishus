@@ -6,6 +6,8 @@
 body {
   font-family: "Jost", sans-serif; /*400 500 800*/
 }
+
+/* ! NAV AREA */
 nav {
   display: flex;
   justify-content: space-evenly;
@@ -42,4 +44,11 @@ nav {
 
 .nav__right_button:hover {
   background-color: rgba(0, 0, 0, 0.8);
+}
+/* ! NAV AREA */
+
+/* ? main area */
+
+main {
+  display: flex;
 }
