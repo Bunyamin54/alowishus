@@ -1,12 +1,21 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
-body{
-    font-family: 'Jost', sans-serif;/*400 500 800*/
+body {
+  font-family: "Jost", sans-serif; /*400 500 800*/
 }
-nav{
-    display: flex;
-    justify-content: space-evenly;
+nav {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1rem;
+}
+
+.nav__right {
+  display: flex;
+}
+
+.nav__right a {
+  padding: 1rem;
 }
