@@ -22,6 +22,11 @@ nav {
   text-decoration: none;
   color: black;
   font-weight: 500;
+  transition: ease 500ms;
+}
+
+.nav__right a:hover {
+  text-decoration: underline;
 }
 
 .nav__right_button {
